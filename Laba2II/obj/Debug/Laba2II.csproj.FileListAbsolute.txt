@@ -1,0 +1,7 @@
+C:\Users\zhura\source\repos\Laba2II\Laba2II\bin\Debug\Laba2II.exe.config
+C:\Users\zhura\source\repos\Laba2II\Laba2II\bin\Debug\Laba2II.exe
+C:\Users\zhura\source\repos\Laba2II\Laba2II\bin\Debug\Laba2II.pdb
+C:\Users\zhura\source\repos\Laba2II\Laba2II\obj\Debug\Laba2II.csproj.AssemblyReference.cache
+C:\Users\zhura\source\repos\Laba2II\Laba2II\obj\Debug\Laba2II.csproj.CoreCompileInputs.cache
+C:\Users\zhura\source\repos\Laba2II\Laba2II\obj\Debug\Laba2II.exe
+C:\Users\zhura\source\repos\Laba2II\Laba2II\obj\Debug\Laba2II.pdb
